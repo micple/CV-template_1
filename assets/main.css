@@ -305,6 +305,7 @@ h4 {
 .left-side {
   position         : relative;
   width            : 33.33%;
+  height           : 820px;
   float            : left;
   padding-right    : 60px;
   padding-left     : 60px;
@@ -607,6 +608,7 @@ h4 {
 
 .right-side {
   width            : 66.66%;
+  height           : 820px;
   float            : right;
   padding-right    : 60px;
   padding-left     : 40px;
